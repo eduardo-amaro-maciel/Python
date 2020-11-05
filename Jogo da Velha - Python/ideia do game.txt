@@ -1,0 +1,5 @@
+Faça um jogo da velha para dois jogadores:
+
+Ele deve receber duas entradas de cada jogador, sendo as coordanas da casa escolhida (utilizar tratamento de exceções para garantir valores válidos)
+Ele deve imprimir o estado do jogo depois de cada jogada (utilizar os parâmetros opcionais do print para fazer o desenho das jogadas e da grade)
+Ele deve verificar as condições de vitórias em cada linha, coluna e diagonal (utilizar o break quando não for mais possível vencer naquela linha, coluna ou diagonal)
